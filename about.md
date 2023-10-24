@@ -43,3 +43,9 @@ How to implement control structures -
 > Be cautious of infinite loop!
 
 **Pointer**: A data type. Type of variable which holds the address of other data types.
+* Pointer arithmetic
+* address(new) = address(current) + i * sizeof(datatype)
+* p+1 = p + i*4 (for int data type)
+
+**Array**: is a collection of items of similar type stored in contiguous memory locations.
+
