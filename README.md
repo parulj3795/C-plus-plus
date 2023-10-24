@@ -1,3 +1,7 @@
+This repository contains C++ codes which I made while learning the language using [this](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) YouTube video series.
+
+Cheers!
+
 1. [tutorial001.cpp](https://github.com/parulj3795/Learning-C--/blob/79d0675455df53ca8baea96e43c285546a8765cf/tutorial001.cpp) - Hello world
 2. [tutorial002.cpp](https://github.com/parulj3795/Learning-C--/blob/79d0675455df53ca8baea96e43c285546a8765cf/tutorial002.cpp) - int, bool. float, char
 3. [tutorial003.cpp](https://github.com/parulj3795/Learning-C--/blob/79d0675455df53ca8baea96e43c285546a8765cf/tutorial003.cpp) - insertion (input) operator
