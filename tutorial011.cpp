@@ -2,6 +2,9 @@
 using namespace std;
 
 int main(){
+
+    // Arrays are typically only used when data type of all elements is same.
+
     int marks[] = {324,546,675,321};
 
     for (int i = 0; i <= 3; i++) // i = 3 will run the code into an infinite loop.
