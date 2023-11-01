@@ -49,3 +49,7 @@ How to implement control structures -
 
 **Array**: is a collection of items of similar type stored in contiguous memory locations.
 
+**Function:** top-down structured programming (not OOP)
+
+**Function prototype:** Tell the compiler beforehand about the functions and the values that they will take.
+

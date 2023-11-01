@@ -14,3 +14,4 @@ Cheers!
 10. [tutorial010.cpp](https://github.com/parulj3795/Learning-C--/blob/79d0675455df53ca8baea96e43c285546a8765cf/tutorial010.cpp) - pointers
 11. [tutorial011.cpp](https://github.com/parulj3795/Learning-C--/blob/main/tutorial011.cpp) - arrays
 12. [tutorial012.cpp](https://github.com/parulj3795/Learning-C--/blob/6159e7ad9b9e1ce37c6c9a1f275afef834cfa316/tutorial012.cpp) - structure, union, enums
+13. [tutorial013.cpp](https://github.com/parulj3795/Learning-C--/blob/main/tutorial013.cpp) - functions
