@@ -16,3 +16,4 @@ Cheers!
 12. [tutorial012.cpp](https://github.com/parulj3795/Learning-C--/blob/6159e7ad9b9e1ce37c6c9a1f275afef834cfa316/tutorial012.cpp) - structure, union, enums
 13. [tutorial013.cpp](https://github.com/parulj3795/Learning-C--/blob/main/tutorial013.cpp) - functions
 14. [tutorial014.cpp](https://github.com/parulj3795/Learning-C--/blob/main/tutorial014.cpp) - call by value and reference
+15. [tutorial015.cpp](https://github.com/parulj3795/Learning-C--/blob/main/tutorial015.cpp) - inline function and default arguments
