@@ -53,3 +53,4 @@ How to implement control structures -
 
 **Function prototype:** Tell the compiler beforehand about the functions and the values that they will take.
 
+**Recursion:** When a function keeps on calling itself and keep on doing so until a base condition is met.
